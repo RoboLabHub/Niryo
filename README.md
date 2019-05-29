@@ -1,4 +1,4 @@
-# Nyrio
+# Niryo
 
 This is customized version of open source Nyrio One robot (https://niryo.com/), but with simplified electronics modules.
 
